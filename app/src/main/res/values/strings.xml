@@ -1,0 +1,326 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">PH Aide</string>
+    <string name="welcome_traveller">Welcome Traveller</string>
+
+    <string name="txtSignUp">Sign Up</string>
+    <string name="txtRegister">Register</string>
+    <string name="btnRegister">Register</string>
+    <string name="alreadyHaveAnAccount">Already have an account?</string>
+
+    <string name="txtLogin">Login</string>
+    <string name="txtSignIn">Sign In</string>
+    <string name="rememberMe">Remember Me</string>
+    <string name="btnLogin">Login</string>
+
+    <string name="profileDetails">PROFILE DETAILS</string>
+    <string name="changePass">Change Password</string>
+    <string name="submit">Submit</string>
+
+    <string name="information">All the amazing photos, even the words used for the new Philippine tourism campaign were sourced from real travelers’ posts - with permissions of course, and the DOT’s deepest thanks. So jump in too!</string>
+    <string name="information1">All information is from Its more fun in the philippines website </string>
+    <string name="websitelink">https://www.itsmorefuninthephilippines.co.uk/</string>
+
+    <string name="batanesLaoagViganDESC"> The Northern Luzon cities of Laoag and Vigan together with the remote archipelagic province of Batanes lie largely off-the-beaten-track when it comes to international tourism. These destinations are mainly accessible by land travel on winding paved roads with picturesque views, especially in the mountain regions, or in the case of Batanes, by air. These volcanic islands and heritage cities in Northern Luzon are all the more worth exploring for their relatively under-the-radar nature. The Batanes Islands, accessible only by air from Manila and seasonally from Clark International Airport, radiate tranquil, unspoilt beauty and sustainability: think white-sand beaches overlooked by lighthouses against a backdrop of rolling hills.</string>
+    <string name="bicolDESC"> At the southernmost end of Luzon island, the Bicol region has six provinces composed of Camarines Norte, Camarines Sur, Albay, Sorsogon, Catanduanes and Masbate.</string>
+    <string name="boracayDESC"> Boracay covers only 10km², including farming land and preserved forest. Its main White and Bulabog beaches are on opposite sides of the island’s central area, the narrowest point of which measures just 1km. Once well-known as a party island, this is now a laidback getaway destination perfect for everyone from couples to families.</string>
+    <string name="calabarzonDESC"> Most visitors to Calabarzon head for Batangas province with its heritage towns and world-class dive sites: highlights are the world’s smallest volcano, Taal, the Fortune Island with its beach houses, and hiking up Mount Pico de Loro and Mount Batulao. Also popular is inland Laguna province with its hot springs and historic towns. In Quezon, the Borawan and Cagbalete islands promise a perfect tropical getaway. A must-see in Quezon is the Villa Escudero working coconut plantation and resort. The city of Lucena attracts visitors with a mix of religious monuments and natural attractions including a botanical garden and a country farm. The province of Cavite is one of the country’s fastest-growing, centred on the popular holiday town of Tagaytay and offering day trips to the peaceful Corregidor Island with its gorgeous beaches and hiking destinations. Its city of Dasmariñas is popular both in itself (don’t miss scenic Daño Street with its holiday bazaars, and the Promenade Des Dasmariñas urban garden park) and as a stopover en route from Metro Manila to Tagaytay and Batangas, and from western Cavite to Laguna. Lastly, Rizal with its capital Antipolo City (a popular pilgrimage site for the Virgin of Antipolo in its cathedral) is best visited for the Masungi Georeserve conservation area with its caves and its panoramic viewing platform with suspended netting above the karst, and for Mount Daraitan and the Tinipak River with their sunset views, rapids and cave swimming.</string>
+    <string name="cebuBoholDESC"> Neighbouring island-provinces Cebu and Bohol are the most accessible destinations in the glorious Central Visayas region, with the greatest choice of things to see and do. But they also serve as hopping points to thousands of spectacular smaller islands within their provinces and the rest of the region. Cebu City – a smaller, more relaxed version of Manila – has the benefit of direct international flights. The Philippines’ oldest city and first capital, it’s also chock-a-block with 16th-century Spanish colonial relics. Ferries from Cebu City take you to Bohol Island in two hours.</string>
+    <string name="cordillerasDESC"> The country’s only land-locked region is also one of its most lightly populated areas, across its six provinces of Abra, Apayao, Benguet, Ifugao, Kalinga and Mountain Province. It’s not the easiest of regions to get around due to its isolated communities and terrain of mainly steep slopes and mountain ranges. This is also a fascinating region from a cultural point of view thanks to several fascinating burial sites and to the presence of tribes maintaining their traditional ways of life.</string>
+    <string name="davaoCamiguinDESC"> Mindanao’s capital – and the country’s third most populous city – vibrant Davao City has plenty of cultural, foodie delights and beaches just waiting to be discovered before you head to the island-province of Camiguin. As well as its tropical beaches, the latter is best known for its Mount Hibok-Hibok Protected Landscape of interior forest reserves (designated an ASEAN Heritage Park) and for its three National Cultural Treasures. Davao City’s Francisco Bangoy International Airport has flights from Singapore, Hong Kong, Doha and Quanzhou, as well as internal flights. Other domestic flights operate to and between several airports within Mindanao including the island paradise of Siargao.</string>
+    <string name="iloiloNegrosDESC"> This province is a mecca for outdoor activities, including hiking and diving. The island of Sicogon in the north, accessible by bus and then boat from Iloilo City, is being developed as an eco-destination. Iloilo City is also the access point to the beach paradise of Guimaras with its water sports and boat hopping to outlying islands.</string>
+    <string name="leyteSamarDESC"> Discover exotic Kalanggaman Island and nature-based activities including mountain trekking, birding and glamping in the region’s protected landscapes and seascapes. Expect world-class white-sand beaches and water sports such as diving and surfing, as well as other outdoors fun including mountain trekking.</string>
+    <string name="metroManilaDESC"> Metro Manila is one of Asia’s premier regions composed of 16 cities and 1 municipality, with major central business districts in the capital Manila, Makati, Quezon City, Parañaque, Pasay, Muntinlupa and Taguig City with its Bonifacio Global City dubbed the Metro’s lifestyle hub. Blending charming Spanish colonial architecture, world-class museums and galleries and the world’s oldest Chinatown with some of the biggest and best shopping malls on Earth. The vibrant bay side Filipino capital Manila is also a foodie paradise that was much revered by celebrity chef, author and travel documentarian Anthony Bourdain.</string>
+    <string name="palawanDESC"> Palawan’s best-known spots are El Nido and Coron with their spectacular dive sites, but there are also more off-the-beaten-track locations such as Port Barton, Taytay, Roxas, Brooke’s Point and San Vicente to discover, with their promise of authentic food and local experiences including wildlife sanctuary visits. Meanwhile, the capital Puerto Princesa City is a great place to soak up some history at the Immaculate Conception Cathedral and WWI site Plaza Cuartel, as well as to shop and eat.</string>
+    <string name="siargaoDESC"> Siargao’s focal point for visitors is General Luna (GL), while the island’s main town, Dapa Town, has grocery shops, a pharmacy, restaurants and cafés. Outside these, the island remains largely untouched by tourism. Perfect for those that love kayaking, paddleboarding, cliff jumping, cave swimming, island hopping and plenty more besides with lots of eco-friendly accommodation.</string>
+
+
+    <string name="batanesLaoagVigan"> THINGS TO DO IN BATANES, LAOAG AND VIGAN</string>
+    <string name="bicol"> THINGS TO DO IN BICOL</string>
+    <string name="boracay"> THINGS TO DO IN BORACAY</string>
+    <string name="calabarzon"> THINGS TO DO IN CALABARZON</string>
+    <string name="cebuBohol"> THINGS TO DO IN CEBU AND BOHOL</string>
+    <string name="cordilleras"> THINGS TO DO IN CORDILLERAS</string>
+    <string name="davaoCamiguin"> THINGS TO DO IN DAVAO AND CAMIGUIN</string>
+    <string name="iloiloNegros"> THINGS TO DO IN ILOILO AND NEGROS</string>
+    <string name="leyteSamar"> THINGS TO DO IN LEYTE AND SAMAR</string>
+    <string name="metroManila"> THINGS TO DO IN METRO MANILA</string>
+    <string name="palawan"> THINGS TO DO IN PALAWAN</string>
+    <string name="siargao"> THINGS TO DO IN SIARGAO</string>
+
+
+    <string name="blv1"> 1. CYCLE, SWIM AND HIKE</string>
+    <string name="bi1"> 1. WHALE SHARKS</string>
+    <string name="bo1"> 1. SNORKEL AND SCUBA </string>
+    <string name="ca1"> 1. SCUBA DIVING</string>
+    <string name="cb1"> 1. SCUBA DIVE</string>
+    <string name="co1"> 1. RICE TERRACES</string>
+    <string name="dc1"> 1. MOUNT APO AND MOUNT HAMIGUITAN</string>
+    <string name="in1"> 1. MIAG-AO CHURCH</string>
+    <string name="ls1"> 1. COASTAL DRIVE</string>
+    <string name="mm1"> 1. WALLED CITY OF INTRAMUROS</string>
+    <string name="pa1"> 1. TUBBATAHA REEFS NATURAL PARK</string>
+    <string name="si1"> 1. SURFING</string>
+
+    <string name="blv11"> In Batanes, hire a bike to discover Basco lighthouse, trek in the Naidi and Vayang rolling hills, hike Mount Iraya and swim in the Homoron Blue Lagoon Cave.</string>
+    <string name="bi11"> See and snorkel near whale sharks in Donsol in Sorsogon.</string>
+    <string name="bo11"> Snorkel or scuba dive – boats can take you out to walls, wrecks and drift dives.</string>
+    <string name="ca11"> Go scuba diving and snorkelling in Anilao</string>
+    <string name="cb11"> Scuba dive and explore the underwater gardens of Moalboal, Malapascua Island and Balicasag Island.</string>
+    <string name="co11"> Walk through the rice terraces in the provinces of Ifugao (Mayoyao, Hungduan, Kiangan), Mountain Province, Kalinga and other provinces.</string>
+    <string name="dc11"> Trek to the top of Mount Apo in Davao province – the Philippines’ highest peak, at 3,144m, or the UNESCO listed Mount Hamiguitan (1,620m).</string>
+    <string name="in11"> Tour the UNESCO-listed Miag-ao Church in Miag-ao 45mins from Iloilo City.</string>
+    <string name="ls11"> Drive the scenic coastal highways of Leyte and Samar</string>
+    <string name="mm11"> Tour the Walled City of Intramuros (the colonial walled city) by horse-drawn carriage or eco-friendly bamboo bicycle.</string>
+    <string name="pa11"> Dive in the Tubbataha Reefs Natural Park, named one of the world’s best dive sites by CNN Travel, and explore the dive sites of El Nido, including Dilumacad’s underwater cavern and Bacuit Bay.</string>
+    <string name="si11"> Grab a board. For beginners, there’s Jacking Horse with its many surf schools; for pros, the thick, hollow ‘barrels’ at Cloud 9 have earnt it a place among the world’s top 10 waves.</string>
+
+    <string name="blv2">2. BOAT RIDE TO ITBAYAT’S TORONGAN CAVE</string>
+    <string name="bi2"> 2. SNORKELLING</string>
+    <string name="bo2"> 2. KITEBOARDING AND WINDSURFING</string>
+    <string name="ca2"> 2. DISCOVER THE RESORT CITY OF TAGAYTAY</string>
+    <string name="cb2"> 2. KAWASAN FALLS</string>
+    <string name="co2"> 2. MT. TIMBAK TO SEE FIRE MUMMIES</string>
+    <string name="dc2"> 2. D’ BONE COLLECTOR NATURAL HISTORY MUSEUM</string>
+    <string name="in2"> 2. MUSEO ILOILO</string>
+    <string name="ls2"> 2. KALANGGAMAN ISLAND</string>
+    <string name="mm2"> 2. STREET FOOD</string>
+    <string name="pa2"> 2. IWAHIG ECOTOURISM AND WILDLIFE PARK</string>
+    <string name="si2"> 2. SUNRISE AND SUNSETS</string>
+
+
+    <string name="blv22"> From Batan Island take a local faluwa boat ride to Sabtang or Itbayat Island; head for Sabtang’s Nakabuang (‘White’) Beach with its famous rock arch or explore Itbayat’s Torongan Cave.</string>
+    <string name="bi22"> Go island-hopping and snorkelling around Caramoan and its islands in the east of Bicol.</string>
+    <string name="bo22"> Try eco-friendly, non-motorised water sports including kiteboarding and windsurfing.</string>
+    <string name="ca22"> Enjoy the resort city of Tagaytay with its mild climate, tasty mushroom burgers, tropical fruits, world-class golf courses, and health and wellness treats, especially at the Nurture Wellness Village, a resort offering a distinctly Filipino-branded spa menu</string>
+    <string name="cb22"> Go cliff diving, canyoneering or swimming at Kawasan Falls, 40mins from Moalboal.</string>
+    <string name="co22"> Hike up Mt Timbak to see the unique Fire Mummies in their natural caves.</string>
+    <string name="dc22"> Explore Davao City including the D’ Bone Collector natural history museum.</string>
+    <string name="in22"> In Iloilo City, visit the Museo Iloilo, the Nelly Garden heritage mansion and Jaro Cathedral, and wander along the lloilo River Esplanade.</string>
+    <string name="ls22"> Discover Kalanggaman Island in Palompon, a remote model of sustainability, or head off to the tiny tropical Cuatro Islas</string>
+    <string name="mm22"> Sample the city’s famous street food at venues including Shipyard in Malate, discover the authentic hole-in-the-wall restaurants of Binondo Chinatown, or go on a food and pub crawl of the trendy Poblacion neighbourhood in Makati. Another foodie hotspot is the Mercato Centrale in BGC, Taguig.</string>
+    <string name="pa22"> Kayak under the stars in Iwahig Ecotourism and Wildlife Park, and visit Iwahig’s rehabilitation ‘prison without walls.’</string>
+    <string name="si22"> Alternatively, admire the action – and watch the sun rise or set, or stargaze – from Cloud 9 boardwalk with its viewing area</string>
+
+
+    <string name="blv3">3. EXPLORE VIGAN</string>
+    <string name="bi3"> 3. SURFING</string>
+    <string name="bo3"> 3. HIKING</string>
+    <string name="ca3"> 3. BATANGAS’ BEACH</string>
+    <string name="cb3"> 3. CHOCOLATE HILLS</string>
+    <string name="co3"> 3. TREK THE MOUNTAINS</string>
+    <string name="dc3"> 3. DAVAO CROCODILE PARK AND ZOO</string>
+    <string name="in3"> 3. GARIN FARM</string>
+    <string name="ls3"> 3. MACARTHUR LANDING MEMORIAL</string>
+    <string name="mm3"> 3. SUNSET VIEW</string>
+    <string name="pa3"> 3. PUERTO PRINCESA SUBTERRANEAN RIVER</string>
+    <string name="si3"> 3. ISLAND HOPPING</string>
+
+
+    <string name="blv33"> Wander or ride a horse-drawn cart around the cobblestoned colonial city of Vigan with its cathedral, fountain light shows and street-food stalls.</string>
+    <string name="bi33"> Surf on Catanduanes Island and swim in its waterfalls and lagoons.</string>
+    <string name="bo33"> Go hiking in Boracay’s hills.</string>
+    <string name="ca33"> Frolic on Batangas’ famous stretch of white sand beach and travel back in time at Taal Heritage Village and marvel at the well-preserved ancestral houses</string>
+    <string name="cb33"> Soak in the iconic sight of Bohol Island’s cone-shaped Chocolate Hills.</string>
+    <string name="co33"> Trek up Mt Pulag, Mt Ugo and Mt Ulap in Benguet for views down over a ‘sea of clouds’.</string>
+    <string name="dc33"> Visit Davao Crocodile Park and Zoo with its wildlife shows and educational exhibits.</string>
+    <string name="in33"> Venture to the pilgrimage, agricultural and leisure site of Garin Farm an hour from the city.</string>
+    <string name="ls33"> Dig into history at the MacArthur Landing Memorial National Park at Red Beach, Palo, on Leyte, where the US general came ashore in WWII.</string>
+    <string name="mm33"> Stroll the waterfront Baywalk for its sunset views over Manila Bay and openair cafés and food stalls.</string>
+    <string name="pa33"> Cruise down the Puerto Princesa Subterranean River.</string>
+    <string name="si33"> Go island-hopping to Guyam, Daku and Naked Island.</string>
+
+
+    <string name="blv4">4. LAOAG CATHEDRAL</string>
+    <string name="bi4"> 4. VISIT A VOLCANO</string>
+    <string name="bo4"> 4. PARASAILING</string>
+    <string name="ca4"> 4. POLILLO AND CAGBALETE</string>
+    <string name="cb4"> 4. TARSIER SANCTUARY</string>
+    <string name="co4"> 4. LUMIANG BURIAL CAVE</string>
+    <string name="dc4"> 4. BLUE WATER CAVE</string>
+    <string name="in4"> 4. BUCARI PINE FOREST AND NADSADJAN FALLS</string>
+    <string name="ls4"> 4. MAHAGNAO VOLCANO </string>
+    <string name="mm4"> 4. DISCOVER OLD MANILA</string>
+    <string name="pa4"> 4. ISLAND HOPPING</string>
+    <string name="si4"> 4. SUGBA LAGOON</string>
+
+
+    <string name="blv44"> Discover Laoag Cathedral and enjoy cultural immersion in traditional crafts such as pottery (damili) making, ‘abel’ loom weaving, ‘basi’ (sugar cane) wine-making and ‘sukang Iloko’ vinegar-making.</string>
+    <string name="bi44"> Take an escorted tour by ATV to the active volcano Mount Mayon.</string>
+    <string name="bo44"> Take to the air with a spot of parasailing.</string>
+    <string name="ca44"> Head for the pristine islands of Polillo and Cagbalete off Quezon’s Pacific coast</string>
+    <string name="cb44"> See conservation in action at Bohol’s Philippine Tarsier Sanctuary – one of the few places where these nocturnal creatures thrive in a natural habitat.</string>
+    <string name="co44"> See centuries-old coffins in Lumiang Burial Cave then spelunk in nearby Sumanguing Cave.</string>
+    <string name="dc44"> Between Davao and the Cagayan de Oro, swim in Blue Water Cave in Bukidnon, and rappel, climb and spelunk nearby.</string>
+    <string name="in44"> Hike in Bucari Pine Forest in Leon and Nadsadjan Falls in Igbaras, both 90mins from Iloilo City.</string>
+    <string name="ls44"> Head to Mahagnao Volcano Natural Park in Burauen and La Paz, Leyte, with craters, hot springs and lakes. </string>
+    <string name="mm44"> Take a Pasig River tour or Manila Bay cruise for a different view of Old Manila and Makati.</string>
+    <string name="pa44"> Go island-hopping and snorkelling in Honda Bay, discovering Starfish Island and others.</string>
+    <string name="si44"> Head for mountain-rimmed Sugba Lagoon, where you’ll find a floating hut with a diving board plus SUP paddleboard and wooden raft hire.</string>
+
+
+    <string name="blv5">5. SAND DUNES</string>
+    <string name="bi5"> 5. EXPLORE LEGAZPI</string>
+    <string name="bo5"> 5. HELICOPTER TOUR</string>
+    <string name="ca5"> 5. HINULUGAN TAKTAK WATERFALLS</string>
+    <string name="cb5"> 5. LOBOC RIVER</string>
+    <string name="co5"> 5. ECHO VALLEY</string>
+    <string name="dc5"> 5. WHITE-WATER RAFTING</string>
+    <string name="in5"> 5. KULIATAN MARINE SANCTUARY</string>
+    <string name="ls5"> 5. LAKE DANAO</string>
+    <string name="mm5"> 5. FOAM RIZAL PARK</string>
+    <string name="pa5"> 5. WRECK-DIVING</string>
+    <string name="si5"> 5. CLIFF JUMPING</string>
+
+
+    <string name="blv55"> Take a rollercoaster-style ride over the sand dunes of La Paz near Laoag City or for more of an adrenaline rush take a side trip and sprint to the sand dunes of Paoay.</string>
+    <string name="bi55"> Explore Bicol’s main city, Legazpi, with its Franciscan church, Spanish pier and Japanese tunnels.</string>
+    <string name="bo55"> Alternatively, see Boracay from the sky with a helicopter beach tour.</string>
+    <string name="ca55"> Tour mountainous Rizal province including its protected Hinulugan Taktak waterfalls</string>
+    <string name="cb55"> Take a relaxing cruise amidst the scenic and rustic tableau of the Loboc River.</string>
+    <string name="co55"> Discover the hanging coffins suspended high on the cliffs in Echo Valley in Sagada.</string>
+    <string name="dc55"> Go white-water rafting in the Cagayan de Oro River with its electrifying rapids.</string>
+    <string name="in55"> Snorkel or scuba dive in the Kuliatan Marine Sanctuary with its gigantic rock formations, two hours from Iloilo City.</string>
+    <string name="ls55"> Take a dip in the violin-shaped lake in Lake Danao Natural Park in Ormoc City and simply laze in the lush rainforest.</string>
+    <string name="mm55"> Roam Rizal Park (‘Luneta’) with its open-air chess, monument to national hero José Rizal and National Museum of Natural History Philippines.</string>
+    <string name="pa55"> Go wreck-diving off Coron or neighbouring Busuanga Island.</string>
+    <string name="si55"> Go cliff jumping and explore the caves and coves of Magpupungko Rock Pools, or try the Tarzan Jump on the Maasin River. Stop by the Maasin viewpoint to see the incredible sight of the island’s coconut plantation.</string>
+
+
+    <string name="blv6">6. ADMIRE THE ARCHITECTURE</string>
+    <string name="bi6"> 6. CAGSAWA RUINS</string>
+    <string name="bo6"> 6. LUXURY SUNSET YACHT CRUISE</string>
+    <string name="ca6"> 6. HIKING</string>
+    <string name="cb6"> 6. DOLPHINS IN OLANGO CHANNEL</string>
+    <string name="co6"> 6. BOMOD-OK FALLS</string>
+    <string name="dc6"> 6. SURFING</string>
+    <string name="in6"> 6. PAWIKAN CAVE AND TANGKE SALTWATER LAGOON</string>
+    <string name="ls6"> 6. DIVING</string>
+    <string name="mm6"> 6. FILIPINO ART</string>
+    <string name="pa6"> 6. TABON CAVES</string>
+    <string name="si6"> 6. TAYANGBAN CAVE POOLS</string>
+
+    <string name="blv66"> Admire grand Paoay Church: a fusion of local and baroque architecture.</string>
+    <string name="bi66"> Tour the Cagsawa Ruins – the atmospheric remnants of a 16th-century Franciscan church.</string>
+    <string name="bo66"> Go island-hopping around Boracay. Indulge in a luxury sunset yacht cruise.</string>
+    <string name="ca66"> Appreciate nature by hiking along the trails of Mount Makiling or soak in the hot springs at Los Baños or Calamba City in Laguna</string>
+    <string name="cb66"> Go island-hopping – whether along the Olango channel or in the Bohol Sea where playful dolphins live.</string>
+    <string name="co66"> Swim in the natural pools of Bomod-ok Falls.</string>
+    <string name="dc66"> Surf at Dahican Beach in Davao Oriental.</string>
+    <string name="in66"> From Iloilo City, sail to Isla de Gigantes to discover Pawikan Cave and the Tangke saltwater lagoon.</string>
+    <string name="ls66"> Go diving/snorkeling on the coral reefs around Southern Leyte’s Sogod Bay dive sites and interact with whale sharks in Pintuyan with a bonus trip to historic Limasawa Island</string>
+    <string name="mm66"> Soak up contemporary Filipino art and the Philippine Gold Exhibit at the Metropolitan Museum of Manila, and at 1335 Mabini Art Gallery located in Makati City.</string>
+    <string name="pa66"> Venture into the Tabon Caves, where some of the oldest known human inhabitants were found.</string>
+    <string name="si66"> Go caving at Tayangban Cave Pools, swimming and floating by torchlight while bats flit around you.</string>
+
+
+    <string name="blv7">7. WATERSPORTS AT PAGUDPUD</string>
+    <string name="bi7"> 7. QUITINDAY UNDERGROUND RIVER</string>
+    <string name="bo7"> 7. CLIFF DIVING AND KAYAKING</string>
+    <string name="ca7"> 7. RAPIDS</string>
+    <string name="cb7"> 7. SKYDIVE</string>
+    <string name="co7"> 7. BENCAB MUSEUM</string>
+    <string name="dc7"> 7. DISCOVER CAMIGUIN’S HISTORY</string>
+    <string name="in7"> 7. ISLAND HOPPING </string>
+    <string name="ls7"> 7. PANHULUGAN SHOW CAVE</string>
+    <string name="mm7"> 7. SHOPPING</string>
+    <string name="pa7"> 7. RELAX ON THE BEACH</string>
+    <string name="si7"> 7. TAKTAK WATERFALL</string>
+
+    <string name="blv77"> Enjoy water sports at Pagudpud’s Saud Beach, the ‘Boracay of the north’, trek to its Kabigan Falls for a cooling dip and rise the zipline across Blue Lagoon with a panoramic glide and land on the white beach, then go banana boating or jet skiing.</string>
+    <string name="bi77"> Take a boat-ride through the Quitinday Underground River, a natural cave system.</string>
+    <string name="bo77"> Head to the island of Ariel’s Point, with more cliff diving plus kayaking and bamboo rafts.</string>
+    <string name="ca77"> Shoot the rapids of Laguna’s Pagsanjan Falls, navigating your wooden canoe past trees and local wildlife</string>
+    <string name="cb77"> Discover smaller islands such as Siquijor with its rustic charm attracting mainly Europeans looking for a relaxing island life, Apo, Cabilao, Camotes and Bantayan. Enjoy the thrill of a skydive at Bantayan Island.</string>
+    <string name="co77"> Tour the BenCab Museum, Baguio City, with its works by Ben Cabrera and other Filipino artists.</string>
+    <string name="dc77"> Explore Camiguin’s historic gems: the Old Bonbon Church ruins and Sunken Cemetery in Catarman, Guinsilibas’ Spanish-era watchtower, Old Mambajao fountain and municipal building, Santo Rosario Church in Sagay town, and 14 heritage and ancestral houses.</string>
+    <string name="in77"> Discover the water sports and beach paradise of Guimaras, then go island-hopping from Guimaras to Inampulugan, Guiwanon, Panobolon, Natunga, Nadulao and other surrounding islets; don’t miss the fascinating Igang Marine Station of the Southeast Asian Fisheries Development Center.</string>
+    <string name="ls77"> Explore Samar Island Natural Park, the Philippines’ biggest protected terrestrial wonder, which includes the Panhulugan show cave in Sohoton Caves and Natural Bridge and the Calbiga Caves, world’s 4th biggest karst cave system</string>
+    <string name="mm77"> Shop ’till you drop, whether at the vast Bayfront SM Mall of Asia or the many artisan outlets.</string>
+    <string name="pa77"> Relax on El Nido’s beaches: Secret Beach, Nacpan, Pangalusian and Las Cabanas among them.</string>
+    <string name="si77"> Journey to Taktak Waterfall, for more cliff jumping, tree jumping and exploring, and to see the sun set from Santa Monica Pier or bask in the sun at the Alegria whitesand beach.</string>
+
+
+    <string name="blv8">8. HIKE TO CAPE BOJEADOR LIGHTHOUSE</string>
+    <string name="bi8"> 8. DARAGA CHURCH</string>
+    <string name="bo8"> 8. PLAY GOLF</string>
+    <string name="ca8"> 8. LOCAL ART AND CULTURE</string>
+    <string name="cb8"> 8. HISTORY AT FORT SAN PEDRO</string>
+    <string name="co8"> 8. BONTOC MUSEUM</string>
+    <string name="dc8"> 8. TUASAN FALLS</string>
+    <string name="in8"> 8. ART DISTRICT IN BACOLOD</string>
+    <string name="ls8"> 8. CANOE THE RAPIDS</string>
+    <string name="mm8"> 8. ARCHITECTURE</string>
+    <string name="pa8"> 8. CLIMBING, ZIP-LINING AND SPELUNKING</string>
+    <string name="si8"> 8. BUCAS GRANDE’S LAGOON</string>
+
+    <string name="blv88"> Take a tricycle ride or hike to Cape Bojeador Lighthouse, an architectural wonder with breathtaking views of the surrounding area, then proceed to Kapurpurawan rock formation for a nature-inspired hike or horseback ride.</string>
+    <string name="bi88"> Visit the imposing Daraga Church, set on a hilltop against a backdrop of Mayon volcano.</string>
+    <string name="bo88"> Play golf on the 18-hole, par 72 Graham Marsh designed fairway.</string>
+    <string name="ca88"> Relive the age-old tradition of embroidery in Lumban, wood carving at Paete, footwear making in Liliw and visual arts of Angono</string>
+    <string name="cb88"> Explore Cebu City and retrace history at Fort San Pedro, Plaza Sugbu and the Parian District.</string>
+    <string name="co88"> Visit the Bontoc Museum showcasing the heritage of the region’s indigenous peoples. Admire the Ifugao woodcarvings in the Museum of Cordillera Sculpture.</string>
+    <string name="dc88"> Immerse yourself in nature at Tuasan Falls on Camiguin island, a lovely spot to swim.</string>
+    <string name="in88"> Discover the friendly, rapidly modernising Negros Occidental capital of Bacolod, voted among the best places to live in the Philippines, with a vibrant Art District, sporting scene and museums.</string>
+    <string name="ls88"> Shoot the rapids of Ulot River in Paranas, Samar via a motorised dugout canoe</string>
+    <string name="mm88"> Explore quirky architecture ranging from the Coconut Palace (by prior booking only) to the Art Deco First United Building.</string>
+    <string name="pa88"> Go climbing, zip-lining, spelunking and jungle trekking at Ugong Rock located in Baranggay Tagabinet near Puerto Princesa.</string>
+    <string name="si88"> Explore Bucas Grande’s lagoon with non-sting jellyfish, and do sea kayaking or cliff diving. Enjoy the water bungalow resorts in the island.</string>
+
+
+    <string name="blv9">9. SURFING</string>
+    <string name="bi9"> 9. ZIP-LINE AT LIGNON HILL NATURE PARK</string>
+    <string name="bo9"> 9. EXPLORE KALIBO, ILOILO OR BACOLOD</string>
+    <string name="ca9"> 9. NUVALI ECO-RESORT</string>
+    <string name="cb9"> 9. MASAPLOD NORTE MARINE RESERVE</string>
+    <string name="co9"> 9. ART AND CULTURE</string>
+    <string name="dc9"> 9. DIVING AND SNORKELLING</string>
+    <string name="in9"> 9. SILAY CITY</string>
+    <string name="ls9"> 9. ROCK FORMATIONS</string>
+    <string name="mm9"> 9. EXPOS, MUSEUMS AND CASINOS</string>
+    <string name="pa9"> 9. LONGEST WHITE BEACH</string>
+    <string name="si9"> 9. PACIFICO BEACH</string>
+
+    <string name="blv99"> Surf in San Juan, La Union, the surfing capital of Northern Philippines. The best season is October through to April.</string>
+    <string name="bi99"> Head for Lignon Hill Nature Park with its zip-line, hiking trail and valley views.</string>
+    <string name="bo99"> Take an extension trip to experience the beauty and food culture of Kalibo, Iloilo, as well as Bacolod, specially during the Masskara Festival during the last week of October.</string>
+    <string name="ca99"> Check out Nuvali eco-resort with its mountain-bike trails, zip-line, aerial walk and more</string>
+    <string name="cb99"> Discover the small coastal town of Dauin, known for its snorkelling, its macrodiving in the Masaplod Norte marine reserve, and its boat trips to nearby Apo.</string>
+    <string name="co99"> Take in the ethnography displays in the Saint Louis University Museum of Arts and Cultures and Museo Kordilyera at the University of the Philippines Baguio.</string>
+    <string name="dc99"> Dive or snorkel at sites suited to all levels, especially those around Camiguin Island.</string>
+    <string name="in99"> Visit Silay City, nicknamed ‘the Paris of Negros’ for its 29 heritage houses including Balay Negrense.</string>
+    <string name="ls99"> See the magnificent rock formations on the island of Biri, Northern Samar</string>
+    <string name="mm99"> Discover Cubao Expo, an alternative village with boutiques, bars and cheap eats. Let off steam at the Upside Down Museum of Illusions, Art In Island museum and the casinos.</string>
+    <string name="pa99"> Visit San Vicente and explore the country’s longest white beach</string>
+    <string name="si99"> Get off the beaten track at pristine Pacifico Beach with its small surf-town feel and a sprinkling of resorts and homestays. On Sundays, join in with beach clean-ups in aid of disadvantaged children.</string>
+
+
+    <string name="blv10">10. ISLAND HOPPING</string>
+    <string name="bi10"> 10. ALBAY PARK AND WILDLIFE</string>
+    <string name="bo10"> 10. SPA AND WELLNESS</string>
+    <string name="ca10"> 10. ANTIPOLO CATHEDRAL</string>
+    <string name="cb10"> 10. DUMAGUETE</string>
+    <string name="co10"> 10. LOCAL GALLERIES</string>
+    <string name="dc10"> 10. LUXURY FARM RESORTS</string>
+    <string name="in10"> DIVE WITH WHALE SHARKS AND TURTLES </string>
+    <string name="ls10"> 10. SURF CAMP</string>
+    <string name="mm10"> 10. DAY TRIPS</string>
+    <string name="pa10"> 10. MIMAROPA REGION</string>
+    <string name="si10"> 10. LOCAL COMMUNITY MARKET </string>
+
+    <string name="blv1010"> Take a boat ride for an island-hopping escapade around the geological wonders of Governor Island, Quezon Island, Children’s Island and the rest of the 124 islands. The Hundred Islands National Park can be reached by a 9-hour bus ride from Vigan.</string>
+    <string name="bi1010"> Relax in Albay Park and Wildlife with its bike hire, lagoon boating and fishing.</string>
+    <string name="bo1010"> Treat yourself to a massage in one of the spas, wellness centres or beach huts.</string>
+    <string name="ca1010"> Seek out cultural sights including Antipolo Cathedral in Rizal and Dr. Jose Rizal Museum in Laguna</string>
+    <string name="cb1010"> Don’t miss the City of Dumaguete with its waterfront bars and restaurants and fascinating anthropology museum.</string>
+    <string name="co1010"> Tour Tam-awan Village – an Artists Gallery in Baguio City, which uniquely blends indigenous aesthetics and exquisite Cordilleran craftsmanship in an artist’s concept for a village adapted to its setting.</string>
+    <string name="dc1010"> Visit Davao’s luxury farm resorts Pearl Farm and Dusit Thani Lubi Plantation.</string>
+    <string name="in1010"> Dive to see whale sharks, turtles and other marine life at Sipalay and Danjugan Island for its protected reefs and rich marine life.</string>
+    <string name="ls1010"> Catch some waves in Calicoan Island, Guiuan, Eastern Samar with its surf camps.</string>
+    <string name="mm1010"> Take a day-trip to Corregidor Island; Tagaytay Ridge, People’s Park in the Sky and Taal Volcano; or Mount Pinatubo crater lake.</string>
+    <string name="pa1010"> Explore more of the MIMAROPA region with its scenic spots including White Island (Mindoro), Bathala Cave, Balanacan Bay and Tres Reyes Islands (Marinduque province) and Fort San Andres, Mount Guiting-Guiting and Bonbon Beach (Romblon).</string>
+    <string name="si1010"> Shop at LOKAL Tabo, a community market where local farmers and artisans sell their produce and crafts.</string>
+
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>
